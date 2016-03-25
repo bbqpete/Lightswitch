@@ -1,0 +1,8 @@
+#Group
+itemGroup.lightswitch=Lightswitch
+
+#Items
+item.switch.name=Light Switch
+
+#Blocks
+tile.lamp.name=Lamp
